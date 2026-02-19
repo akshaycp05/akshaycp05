@@ -50,10 +50,10 @@
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaycp05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BB86FC&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaycp05&theme=tokyonight&hide_border=true&background=0d1117&ring=BB86FC&fire=00F5FF&currStreakLabel=BB86FC" />
 </p>
+
 
 ---
 

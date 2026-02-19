@@ -38,13 +38,32 @@
 
 ### 💻 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql&theme=dark" />
 </p>
 
-### ⚙️ Frameworks & Tools
+---
+
+### ⚙️ Frameworks & Backend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,django,git,github,vscode,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,react,bootstrap&theme=dark" />
 </p>
+
+---
+
+### 🗄️ Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
 
 ---
 
@@ -53,7 +72,6 @@
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaycp05&theme=tokyonight&hide_border=true&background=0d1117&ring=BB86FC&fire=00F5FF&currStreakLabel=BB86FC" />
 </p>
-
 
 ---
 
@@ -74,13 +92,7 @@
 
 ---
 
-## 🏅 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshaycp05&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -96,13 +108,15 @@
 
 ---
 
-<!-- Bottom Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=170&section=footer&animation=fadeIn" />
-
----
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshaycp05/akshaycp05/output/github-contribution-grid-snake.svg" />
 </p>
+
+
+<!-- Bottom Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=170&section=footer&animation=fadeIn" />
+
+---

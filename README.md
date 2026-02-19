@@ -78,3 +78,12 @@
 
 <!-- Bottom Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0E75B6&height=120&section=footer" />
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshaycp05/akshaycp05/output/github-contribution-grid-snake.svg" />
+</p>

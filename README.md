@@ -105,7 +105,7 @@
 <h2 align="center" style="color: #BB86FC;">📊 GitHub Metrics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaycp05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00FFFF&title_color=BB86FC&text_color=ffffff" alt="GitHub Stats" width="48%" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaycp05&theme=tokyonight&hide_border=true&background=0d1117&ring=BB86FC&fire=00FFFF&currStreakLabel=BB86FC" alt="GitHub Streak" width="48%" />
 </div>
 

@@ -66,12 +66,7 @@
 
 ## 🧊 3D Contribution Calendar
 
-Generated automatically with [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) — see setup instructions below.
-
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-## 🐍 Contribution Snake
-
-[![Snake animation](https://raw.githubusercontent.com/akshaycp05/akshaycp05/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/akshaycp05/akshaycp05/output/github-contribution-grid-snake.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&animation=fadeIn"/>

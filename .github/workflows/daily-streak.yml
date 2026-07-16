@@ -1,0 +1,33 @@
+name: Daily-Streak-Keeper
+
+on:
+  schedule:
+    - cron: "0 20 * * *"   # runs once a day at 20:00 UTC (~01:30 IST)
+  workflow_dispatch:        # allows manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    name: keep-daily-streak-alive
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Update streak log
+        run: |
+          mkdir -p .streak
+          echo "Last streak commit: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > .streak/last-commit.md
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .streak/last-commit.md
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "chore: daily streak keeper $(date -u '+%Y-%m-%d')"
+            git push
+          fi
